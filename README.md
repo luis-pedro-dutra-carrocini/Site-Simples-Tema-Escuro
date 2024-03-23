@@ -147,4 +147,4 @@ switcher.addEventListener('click', function() {
 ## 🎁 Expressões de gratidão
 
 * Conte a outras pessoas sobre este projeto 📢;
-* [Inspiração]([https://mattfarley.ca/](https://www.ev.org.br/cursos/crie-um-site-simples-usando-html-css-e-javascript)https://www.ev.org.br/cursos/crie-um-site-simples-usando-html-css-e-javascript); 
+* [Inspiração](https://mattfarley.ca/](https://www.ev.org.br/cursos/crie-um-site-simples-usando-html-css-e-javascript)https://www.ev.org.br/cursos/crie-um-site-simples-usando-html-css-e-javascript); 
