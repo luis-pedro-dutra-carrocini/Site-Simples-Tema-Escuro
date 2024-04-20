@@ -8,7 +8,7 @@ Site desenvolvido durante o curso de Criação de Site Simples usando HTML, CSS 
 Para obter uma cópia basta baixar o arquivos contidos nesse repositório, executar o arquivo em um navagador (Chrome, Edge, FireFox, etc.).
 
 
-## 🚀 [Link do Site](https://meusitetestefatec.000webhostapp.com/Site_Simples/index.html)
+## 🚀 [Link do Site](https://luis-pedro-dutra-carrocini.github.io/Site-Simples-Tema-Escuro/index.html)
 
 
 ## 📦 Aparência
